@@ -2,6 +2,6 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, My name is Akshay,batch35 student and this is 1st programme!"); 
+        System.out.println("I am the batch 35 student and this is my first programme!"); 
     }
 }
